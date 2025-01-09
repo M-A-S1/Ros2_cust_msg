@@ -85,14 +85,12 @@ msg.center.x = local_x * math.cos(angle) - local_y * math.sin(angle)
 msg.center.y = local_x * math.sin(angle) + local_y * math.cos(angle)
 ```
 
-## License
-This project is licensed under the MIT License.
 
 ## Contributions
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ## Author
-Muhammad
+Muhammad Ali
 
 ---
 
